@@ -1,0 +1,24 @@
+HEALTH INSURANCE POLICY - DEMO
+
+Policy Name: Silver Health Plan
+
+Hospitalization:
+The policy covers eligible hospitalization expenses up to PKR 500,000 per policy year.
+
+Room Charges:
+Room charges are covered up to PKR 5,000 per day.
+
+Waiting Period:
+A waiting period of 30 days applies to general illnesses. Accidental hospitalization is exempt from this waiting period.
+
+Pre-existing Conditions:
+Pre-existing medical conditions are not covered during the first 24 months of the policy.
+
+Exclusions:
+Cosmetic surgery, experimental treatments and non-prescribed medicines are excluded.
+
+Claims:
+The policyholder must submit original hospital bills and claim documents within 30 days of discharge.
+
+Emergency:
+Emergency hospitalization requires notification to the insurer within 24 hours.
